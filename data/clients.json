@@ -1,0 +1,234 @@
+[
+  {
+    "id": "c1",
+    "name": "Aria Chen",
+    "age": 29,
+    "gender": "Female",
+    "location": "New York, NY",
+    "occupation": "UX Designer",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+    "bio": "Creative soul with a love for city walks, modern art, and searching for the perfect matcha latte. I balance my fast-paced design career with quiet weekend painting sessions and running in Central Park. Looking for someone to share deep conversations and try new foodie spots with.",
+    "interests": ["Painting", "Modern Art", "Running", "Matcha Tasting", "Indie Music", "Thrift Shopping"],
+    "lifestyle": {
+      "activityLevel": "Active",
+      "smoking": "Never",
+      "drinking": "Socially",
+      "pets": "Cat owner",
+      "religion": "Spiritual but not religious"
+    },
+    "values": ["Creativity", "Growth Mindset", "Open Communication", "Empathy"],
+    "relationshipGoal": "Long-term partnership with space for individuality",
+    "mustHaves": ["Intellectual curiosity", "Emotional intelligence", "Values art and expression"],
+    "dealbreakers": ["Heavy smokers", "Inflexible mindsets", "Lack of ambition"],
+    "preferences": {
+      "gender": ["Male", "Non-binary"],
+      "ageMin": 28,
+      "ageMax": 36,
+      "maxDistance": 25,
+      "religionFlexible": true
+    }
+  },
+  {
+    "id": "c2",
+    "name": "Marcus Vance",
+    "age": 32,
+    "gender": "Male",
+    "location": "Brooklyn, NY",
+    "occupation": "Software Engineer & Amateur Chef",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "bio": "Tech enthusiast by day, culinary experimenter by night. I love cooking elaborate three-course meals for friends, hiking upstate on weekends, and reading sci-fi. I value stability but always keep room for adventure. Seeking a partner who appreciates good food and laughs easily.",
+    "interests": ["Cooking", "Hiking", "Sci-Fi Literature", "Board Games", "Vinyl Records", "Biking"],
+    "lifestyle": {
+      "activityLevel": "Active",
+      "smoking": "Never",
+      "drinking": "Socially",
+      "pets": "Dog lover",
+      "religion": "Atheist"
+    },
+    "values": ["Stability", "Honesty", "Learning", "Humor"],
+    "relationshipGoal": "Life partner to build a home and family with",
+    "mustHaves": ["Likes dogs", "Appreciates culinary adventures", "Good sense of humor"],
+    "dealbreakers": ["Messiness", "Pretentiouness", "Extremely religious"],
+    "preferences": {
+      "gender": ["Female"],
+      "ageMin": 27,
+      "ageMax": 34,
+      "maxDistance": 15,
+      "religionFlexible": false
+    }
+  },
+  {
+    "id": "c3",
+    "name": "Elena Rostova",
+    "age": 34,
+    "gender": "Female",
+    "location": "Queens, NY",
+    "occupation": "Classical Violinist & Music Teacher",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "bio": "Classical violinist who lives and breathes music, but enjoys simple joys like brewing espresso, tending to a terrace garden, and practicing yoga. I'm warm, introspective, and love structured but cozy routines. Seeking someone grounded, culturally inclined, and ready for a serious relationship.",
+    "interests": ["Classical Music", "Gardening", "Yoga", "Espresso Brewing", "Foreign Cinema", "Museums"],
+    "lifestyle": {
+      "activityLevel": "Moderate",
+      "smoking": "Never",
+      "drinking": "Rarely",
+      "pets": "No pets but open to them",
+      "religion": "Christian"
+    },
+    "values": ["Artistic expression", "Family closeness", "Groundedness", "Kindness"],
+    "relationshipGoal": "Marriage and starting a family in the next few years",
+    "mustHaves": ["Emotionally mature", "Respects my musical dedication", "Wants children"],
+    "dealbreakers": ["Party-centric lifestyle", "Cynicism", "Unwillingness to settle down"],
+    "preferences": {
+      "gender": ["Male"],
+      "ageMin": 30,
+      "ageMax": 40,
+      "maxDistance": 30,
+      "religionFlexible": true
+    }
+  },
+  {
+    "id": "c4",
+    "name": "Devin Brooks",
+    "age": 28,
+    "gender": "Non-binary",
+    "location": "Brooklyn, NY",
+    "occupation": "Community Organizer",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150",
+    "bio": "Passionate advocate for local community development. When I'm not organizing events, I'm usually bouldering, brewing my own kombucha, or attending local gigs. I thrive on community, activism, and deep discussions. Looking for a partner who is passionate, socially active, and open-minded.",
+    "interests": ["Activism", "Bouldering", "Kombucha Brewing", "Live Shows", "Podcasts", "Cyclocross"],
+    "lifestyle": {
+      "activityLevel": "Very Active",
+      "smoking": "Socially (vape)",
+      "drinking": "Socially",
+      "pets": "Cat owner",
+      "religion": "Secular Humanist"
+    },
+    "values": ["Social Justice", "Authenticity", "Adventure", "Equity"],
+    "relationshipGoal": "A passionate, supportive partnership with mutual inspiration",
+    "mustHaves": ["Progressive values", "Active lifestyle", "Independence"],
+    "dealbreakers": ["Apathy", "Conservative politics", "Dislike of cats"],
+    "preferences": {
+      "gender": ["Male", "Female", "Non-binary"],
+      "ageMin": 25,
+      "ageMax": 33,
+      "maxDistance": 20,
+      "religionFlexible": true
+    }
+  },
+  {
+    "id": "c5",
+    "name": "Dr. Kenji Tanaka",
+    "age": 38,
+    "gender": "Male",
+    "location": "Manhattan, NY",
+    "occupation": "Pediatrician",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+    "bio": "Dedicated pediatrician who loves kids and spends free time training for triathlons, volunteering at youth clinics, and learning French. I value health, self-improvement, and warmth. I am looking for a partner who is compassionate, driven, and values healthy living.",
+    "interests": ["Triathlons", "Volunteering", "French Language", "Travel", "Running", "Wine Tasting"],
+    "lifestyle": {
+      "activityLevel": "Very Active",
+      "smoking": "Never",
+      "drinking": "Socially (fine wine)",
+      "pets": "Dog owner",
+      "religion": "Buddhist (Zen)"
+    },
+    "values": ["Compassion", "Health & Wellness", "Discipline", "Lifelong Learning"],
+    "relationshipGoal": "Long-term relationship heading towards marriage/cohabitation",
+    "mustHaves": ["Career-driven or passionate", "Active/healthy lifestyle", "Kindness to kids"],
+    "dealbreakers": ["Sedentary lifestyle", "Negativity", "Smoking"],
+    "preferences": {
+      "gender": ["Female", "Male"],
+      "ageMin": 30,
+      "ageMax": 40,
+      "maxDistance": 40,
+      "religionFlexible": true
+    }
+  },
+  {
+    "id": "c6",
+    "name": "Sophia Martinez",
+    "age": 31,
+    "gender": "Female",
+    "location": "Hoboken, NJ",
+    "occupation": "Marketing Director",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150",
+    "bio": "Energetic, extroverted marketing professional. I love rooftop bars, hosting brunch, traveling to warm beaches, and spin classes. I live life out loud and love deep laughter. Looking for an ambitious, confident partner who can match my energy and is ready to build an empire together.",
+    "interests": ["Travel", "Brunching", "Spin Classes", "Fashion", "Public Speaking", "Rooftop Dining"],
+    "lifestyle": {
+      "activityLevel": "Active",
+      "smoking": "Never",
+      "drinking": "Socially",
+      "pets": "No pets",
+      "religion": "Catholic (non-practicing)"
+    },
+    "values": ["Ambition", "Joy", "Loyalty", "Financial Responsibility"],
+    "relationshipGoal": "Marriage, travel-filled partnership, and children eventually",
+    "mustHaves": ["High ambition", "Great conversationalist", "Extroverted"],
+    "dealbreakers": ["Lack of career goals", "Shyness/social anxiety", "Skeptics of travel"],
+    "preferences": {
+      "gender": ["Male"],
+      "ageMin": 30,
+      "ageMax": 39,
+      "maxDistance": 15,
+      "religionFlexible": true
+    }
+  },
+  {
+    "id": "c7",
+    "name": "Jordan Lee",
+    "age": 35,
+    "gender": "Male",
+    "location": "Brooklyn, NY",
+    "occupation": "Landscape Architect",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "bio": "Designing green spaces is my career and passion. I spend my weekends bird watching, woodworking in my shop, or taking road trips to national parks. I'm introverted but warm, very handy, and love building things from scratch. Looking for someone grounded who loves nature and quiet weekends.",
+    "interests": ["Woodworking", "Bird Watching", "National Parks", "Hiking", "Gardening", "Acoustic Guitar"],
+    "lifestyle": {
+      "activityLevel": "Moderate",
+      "smoking": "Never",
+      "drinking": "Rarely",
+      "pets": "Two dogs (retrievers)",
+      "religion": "Spiritual"
+    },
+    "values": ["Nature Connection", "Craftsmanship", "Patience", "Genuineness"],
+    "relationshipGoal": "A quiet, loving life partner to settle in a greener area with",
+    "mustHaves": ["Loves animals/dogs", "Appreciates nature/outdoors", "Sincere and down-to-earth"],
+    "dealbreakers": ["Extremely high-maintenance", "Sticking 100% to concrete city life", "Rudeness to service staff"],
+    "preferences": {
+      "gender": ["Female", "Male", "Non-binary"],
+      "ageMin": 29,
+      "ageMax": 38,
+      "maxDistance": 30,
+      "religionFlexible": true
+    }
+  },
+  {
+    "id": "c8",
+    "name": "Zara Patel",
+    "age": 27,
+    "gender": "Female",
+    "location": "New York, NY",
+    "occupation": "Journalist",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "bio": "Curious, inquisitive journalist covering city culture and politics. I'm always reading, listening to indie podcasts, or tracking down the best street food vendors. I value intellect, wit, and banter. Looking for someone who can keep up with fast debates and has a deep passion for their own work.",
+    "interests": ["Writing", "Reading", "Street Food", "Documentaries", "Trivia Nights", "Biking"],
+    "lifestyle": {
+      "activityLevel": "Moderate",
+      "smoking": "Never",
+      "drinking": "Socially",
+      "pets": "No pets",
+      "religion": "Hindu (cultural)"
+    },
+    "values": ["Curiosity", "Intellectual Honesty", "Humor/Banter", "Independence"],
+    "relationshipGoal": "An intellectual romance with plenty of banter and mutual support",
+    "mustHaves": ["Well-read", "Strong conversationalist", "Independent lifestyle"],
+    "dealbreakers": ["Close-mindedness", "Over-competitiveness", "Apathy towards global issues"],
+    "preferences": {
+      "gender": ["Male", "Female"],
+      "ageMin": 26,
+      "ageMax": 33,
+      "maxDistance": 15,
+      "religionFlexible": true
+    }
+  }
+]
