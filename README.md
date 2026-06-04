@@ -3,7 +3,7 @@
 Internal CRM and Matchmaker Workbench dashboard for **The Date Crew (TDC)** matchmakers to manage client profiles, search prospects, evaluate compatibilities, and generate introductory outreach letters.
 
 ## Live Deployment
-- **Live URL**: [https://tdc-matchmaker-mvp.vercel.app](https://tdc-matchmaker-mvp.vercel.app) *(Placeholder for production deployment)*
+- **Live URL**: [https://tdc-matchmaker-mvp.vercel.app](https://matchly-nine.vercel.app/) *(Placeholder for production deployment)*
 
 ## Tech Stack
 - **Frontend**: React (Vite) + Tailwind CSS v4 + Lucide Icons
